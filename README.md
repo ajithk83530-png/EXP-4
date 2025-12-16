@@ -49,7 +49,6 @@ TABULAR COLUMN_ HALF WAVE  RECTIFIER:
 
 
 TABULAR COLUMN_ FULL WAVE RECTIFIER:
-
 ![WhatsApp Image 2025-12-16 at 11 15 19_f9ed882c](https://github.com/user-attachments/assets/9ab0e549-1a39-4bbc-ad97-7ade4b6ca6f2)
 
 
