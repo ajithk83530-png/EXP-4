@@ -37,7 +37,7 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
-![WhatsApp Image 2025-12-16 at 11 20 08_fe2a044e](https://github.com/user-attachments/assets/b2952ac1-9055-494b-87dd-da441b179aec)
+<img width="1341" height="486" alt="Screenshot 2025-12-16 112449" src="https://github.com/user-attachments/assets/04c7fd5a-3229-4c98-ba5d-af5621a9f15a" />
 
 
 
