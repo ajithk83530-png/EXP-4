@@ -45,7 +45,7 @@ Bridge rectifier with filter:
 
 
 TABULAR COLUMN_ HALF WAVE  RECTIFIER:
-![WhatsApp Image 2025-12-16 at 11 14 30_a0bca38a](https://github.com/user-attachments/assets/5e23ac6e-cda1-4a41-bf5f-42a5f7886fbe)
+![WhatsApp Image 2025-12-16 at 11 20 08_544d9d5b](https://github.com/user-attachments/assets/58d7c967-8440-4e30-b749-8437155d99ec)
 
 
 TABULAR COLUMN_ FULL WAVE RECTIFIER:
