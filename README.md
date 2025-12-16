@@ -37,17 +37,32 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="785" height="423" alt="Screenshot 2025-12-16 110652" src="https://github.com/user-attachments/assets/0fe216b2-8169-4d84-9b84-95e5b371a4ad" />
+
 
 Bridge rectifier with filter:
+<img width="764" height="411" alt="Screenshot 2025-12-16 110709" src="https://github.com/user-attachments/assets/7fb29e61-7d2e-4588-919d-d064ce9797ee" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+TABULAR COLUMN_ HALF WAVE  RECTIFIER:
+![WhatsApp Image 2025-12-16 at 11 14 30_a0bca38a](https://github.com/user-attachments/assets/5e23ac6e-cda1-4a41-bf5f-42a5f7886fbe)
+
+
+TABULAR COLUMN_ FULL WAVE RECTIFIER:
+
+![WhatsApp Image 2025-12-16 at 11 15 19_f9ed882c](https://github.com/user-attachments/assets/9ab0e549-1a39-4bbc-ad97-7ade4b6ca6f2)
+
 
 WAVEFORM:
+HALF WAVE:
+<img width="830" height="384" alt="Screenshot 2025-12-16 110721" src="https://github.com/user-attachments/assets/acfb847e-880d-4cf5-94de-a1199138f4bf" />
+
+FULL WAVE:
+<img width="789" height="405" alt="Screenshot 2025-12-16 110729" src="https://github.com/user-attachments/assets/735af583-c353-49da-bdb9-3a2ad339f829" />
+
+
 
 
 RESULT:
 
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted successfully.
